@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "simplemock",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tavernari/SimpleMock",
+      "state" : {
+        "revision" : "eac94a7e0eba66593de72d6bd12347e953cb5ee8",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
